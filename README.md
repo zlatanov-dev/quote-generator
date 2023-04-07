@@ -1,5 +1,7 @@
 Random Quote Generator
 
+Try it out! - https://quote-generator-z.github.io/
+
 This is a simple web app that generates a random quote fetched from an external API. The app is built using vanilla JavaScript and the data is fetched from a JSON file.
 Features
 
